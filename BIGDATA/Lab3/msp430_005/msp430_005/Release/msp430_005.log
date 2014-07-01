@@ -1,0 +1,34 @@
+﻿Build started 8/2/2010 9:25:00 PM.
+     1>Project "C:\Users\Jack Toole\Documents\Visual Studio 2010\Projects\msp430_005\msp430_005\msp430_005.vcxproj" on node 2 (build target(s)).
+     1>InitializeBuildStatus:
+         Creating "Release\msp430_005.unsuccessfulbuild" because "AlwaysCreate" was specified.
+       ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /I"C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\boost_1_43_0" /Zi /nologo /W3 /WX- /O2 /Oi /Oy- /GL /D WIN32 /D NDEBUG /D _WINDOWS /Gm- /EHsc /MD /GS /Gy /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Release\\" /Fd"Release\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt calibrate.cpp main.cpp transform.cpp
+         calibrate.cpp
+         main.cpp
+         transform.cpp
+       ResourceCompile:
+         All outputs are up-to-date.
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\Jack Toole\Documents\Visual Studio 2010\Projects\msp430_005\Release\msp430_005.exe" /INCREMENTAL:NO /NOLOGO /LIBPATH:"C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\boost_1_43_0/lib" gui2.lib eZ430_Chronos_CC.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"Release\msp430_005.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"C:\Users\Jack Toole\Documents\Visual Studio 2010\Projects\msp430_005\Release\msp430_005.pdb" /SUBSYSTEM:WINDOWS /OPT:REF /OPT:ICF /LTCG /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\Jack Toole\Documents\Visual Studio 2010\Projects\msp430_005\Release\msp430_005.lib" /MACHINE:X86 Release\msp.res
+         Release\calibrate.obj
+         Release\com.obj
+         Release\filter.obj
+         Release\main.obj
+         Release\mode.obj
+         Release\mouse.obj
+         Release\options.obj
+         Release\transform.obj
+         Generating code
+         Finished generating code
+         msp430_005.vcxproj -> C:\Users\Jack Toole\Documents\Visual Studio 2010\Projects\msp430_005\Release\msp430_005.exe
+       Manifest:
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /outputresource:"C:\Users\Jack Toole\Documents\Visual Studio 2010\Projects\msp430_005\Release\msp430_005.exe;#1" /manifest Release\msp430_005.exe.intermediate.manifest
+       FinalizeBuildStatus:
+         Deleting file "Release\msp430_005.unsuccessfulbuild".
+         Touching "Release\msp430_005.lastbuildstate".
+     1>Done Building Project "C:\Users\Jack Toole\Documents\Visual Studio 2010\Projects\msp430_005\msp430_005\msp430_005.vcxproj" (build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:06.82

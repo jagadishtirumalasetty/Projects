@@ -1,0 +1,22 @@
+﻿Build started 5/6/2013 3:59:12 PM.
+     1>Project "C:\temp\flying_mouse_source\msp430_005\msp430_005\msp430_005.vcxproj" on node 2 (build target(s)).
+     1>InitializeBuildStatus:
+         Creating "Debug\msp430_005.unsuccessfulbuild" because "AlwaysCreate" was specified.
+       ClCompile:
+         All outputs are up-to-date.
+       ResourceCompile:
+         All outputs are up-to-date.
+       ManifestResourceCompile:
+         All outputs are up-to-date.
+       Link:
+         All outputs are up-to-date.
+       Manifest:
+         All outputs are up-to-date.
+       FinalizeBuildStatus:
+         Deleting file "Debug\msp430_005.unsuccessfulbuild".
+         Touching "Debug\msp430_005.lastbuildstate".
+     1>Done Building Project "C:\temp\flying_mouse_source\msp430_005\msp430_005\msp430_005.vcxproj" (build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:01.43

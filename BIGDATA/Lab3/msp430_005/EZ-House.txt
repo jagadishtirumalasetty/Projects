@@ -1,0 +1,49 @@
+﻿[[Image:Leopard1.jpg|thumb|300px|right|Main picture caption]]
+
+EZ-Home uses the EZ-430 Chronos watch as a control device for the AC system and the lights of the house. It is also expandable to control the garage door, the main door of the house and any other application such as projector screens or hearths.
+
+# Functional Description
+# What inspired you to create this 
+# what purpose/market need does this fulfill
+# In general, feel free to add as much content as you think is valuable.  Consider this template as the bare minimum.  
+
+'''EZ-Home.'''
+
+= Authors =
+
+* Ivon Ayala  
+* Efrain Gaxiola 
+* Ismael Quintanilla 
+
+= Features =
+* Feature 1
+* Feature 2
+* Feature 3
+
+= Pictures & Videos (TBA) =
+If possible, video your design working and upload to YouTube with link here:
+
+<gallery>
+File:Leopard1.jpg| Image 1
+File:Example.jpg| Image 2
+File:EZ430-Chronos.png| sample caption
+File:EZ430-RF2500.jpg‎| caption 4
+</gallery>
+
+Videos can be embedded directly into the wiki using the EmbedVideoPlus extension.  For documentation on this extension, please see [http://www.mediawiki.org/wiki/Extension:EmbedVideoPlus http://www.mediawiki.org/wiki/Extension:EmbedVideoPlus]
+
+= Usage Instructions = 
+Include any instructions that a user will need if they try to reproduce your project.  This might include instructions on installing some piece of software, compiling something, or hardware assembly.
+
+= Source Code =
+
+*Please upload all source and project files.  Source code and be uploaded directly to the wiki, but larger projects may benefit from being posted externally on sites like [http://sourceforge.net sourceforge.net] or [http://github.com/ github.com].
+
+= Schematics =
+
+*Please upload your schematics in CAD preferably or PDF 
+*Ex. [http://processors.wiki.ti.com/index.php/File:DM355_LEOPARD_BOARD.pdf http://processors.wiki.ti.com/index.php/File:DM355_LEOPARD_BOARD.pdf]
+
+[[Category:MSP430]] 
+[[Category:Co-Op_Design_Challenge_2010]]
+[[Category:Microcontroller_Projects_-_MSP430]]
