@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">ShopEasy</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_store_finder">StoreFinder</string>
+    <string name="textview">TextView</string>
+    <string name="title_activity_store_near_by">StoreNearBy</string>
+    <string name="city">City</string>
+    <string name="near_by">Near by</string>
+    <string name="show_stores">Show Stores</string>
+    <string name="find_near_by">find Near By</string>
+    <string name="stores_near_by">Stores Near By</string>
+    <string name="viewlinear">viewLinear</string>
+    <string name="linear">linear</string>
+    <string name="title_activity_stores_in_city">StoresInCity</string>
+    <string name="title_activity_map_directions">MapDirections</string>
+    <string name="title_activity_grocery_list">GroceryList</string>
+
+</resources>

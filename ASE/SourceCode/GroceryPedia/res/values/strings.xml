@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">GroceryPedia</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="Grocery_List">Grocery List</string>
+    <string name="Find_Store">Find A Store</string>
+    <string name="Scan">Scan to Find an Item</string>
+    <string name="title_activity_items_list">ItemsList</string>
+    <string name="title_activity_store_locator">StoreLocator</string>
+    <string name="edit_message">Enter Item</string>
+    <string name="button_send">Search</string>
+
+</resources>
